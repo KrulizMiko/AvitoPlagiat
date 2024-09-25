@@ -1,0 +1,27 @@
+* {
+	padding: 0px;
+	margin: 0px;
+	border: border-box;
+}
+.BlcLine {
+	background-color: black;
+	height: 50px;
+}
+.Forbius {
+	
+	
+	padding-top: 15px;	
+}
+.a, .b, .c, .d, .e{
+	text-decoration: none;
+	color: pink;
+	padding: 45px;
+	text-align: left;
+}
+
+.lik, .authr {
+	text-decoration: none;
+	color: pink;
+	padding: 150px;
+	text-align: right;
+}
